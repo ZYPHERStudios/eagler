@@ -1,0 +1,15 @@
+{
+    "name": "Minecraft",
+    "short_name": "MC",
+    "start_url": "/",
+    "background_color": "#009933",
+    "theme_color": "#009933",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://tortillagames.org/assets/img/lessons/1b43fb3b-6715-4928-945b-555be153db90.webp",
+            "sizes": "300x300",
+            "type": "image/png"
+        }
+    ]
+}
